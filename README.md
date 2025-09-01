@@ -21,3 +21,7 @@ O *HTML e o CSS* foram fornecidos pela plataforma, e eu desenvolvi a *lógica em
 
 ![Preview da jogo](img/img-jogo-com-voz.png)
 
+## 🌐 Deploy
+
+O projeto está disponível online:  
+👉 [Acessar o jogo no Vercel](https://jogo-numero-secreto-voz-rho.vercel.app/)
